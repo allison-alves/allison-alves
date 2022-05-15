@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allison André</h1>
 <h3 align="center">A QA passionate about manual and automated testing</h3>
-<img align="right" alt="cat-coding" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114f320aa3ac49d55cfc66d095cba6d957b725787d&rid=giphy.gif&ct=g">
+<img align="right" alt="cat-coding" height="290" style="border-radius:50px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114f320aa3ac49d55cfc66d095cba6d957b725787d&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allison-alves&label=Profile%20views&color=0e75b6&style=flat" alt="allison-alves" /> </p>
 
 - 🌱 I’m currently learning **Java with selenium framework**
