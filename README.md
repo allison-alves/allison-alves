@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java with selenium framework**
 
-- 💬 Ask me about **Cyrepss, Robot Framework, Automated tests and manualy**
+- 💬 Ask me about **Playwright, Cypress, Robot Framework, Automated tests and manualy**
 
 - 📫 How to reach me **allison.andre2@gmail.com**
 
